@@ -1,0 +1,1 @@
+The Shell command, wc, looks into a file and returns the number of words, lines, and characters. You can use the switches -w for words, -l for lines, and -m for characters
